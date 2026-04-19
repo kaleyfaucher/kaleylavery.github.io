@@ -3,8 +3,8 @@
 [Home](index.md) | [Artifacts Overview](artifacts.md) | [Enhancement 1](enhancement1.md) | [Enhancement 3](enhancement3.md)
 
 ## Artifact Files
-- Original Artifact (to be added)
-- Enhanced Artifact (to be added)
+- [Original Artifact](original-artifacts/Pirate-Agent.zip)
+- [Enhanced Artifact](enhanced-artifacts/Pirate-Agent-Enhanced.zip)
 - [Narrative Document](documents/Enhancement%202%20-%20Algorithms%20%26%20Data%20Structures(1).docx)
 
 ## Artifact Description
