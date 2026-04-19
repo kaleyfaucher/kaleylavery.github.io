@@ -3,8 +3,8 @@
 [Home](index.md) | [Artifacts Overview](artifacts.md) | [Enhancement 2](enhancement2.md) | [Enhancement 3](enhancement3.md)
 
 ## Artifact Files
-- Original Artifact (to be added)
-- Enhanced Artifact (to be added)
+- [Original Artifact](original-artifacts/travlr-original.zip)
+- [Enhanced Artifact](enhanced-artifacts/travlr-enhanced.zip)
 - [Narrative Document](documents/Enhancement%201%20–%20Software%20Design%20and%20Engineering%20Narrative.docx)
 
 ## Artifact Description
