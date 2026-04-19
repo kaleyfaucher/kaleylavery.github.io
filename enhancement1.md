@@ -5,7 +5,7 @@
 ## Artifact Files
 - Original Artifact (to be added)
 - Enhanced Artifact (to be added)
-- Narrative Document (to be added)
+- [Narrative Document](documents/Enhancement%201%20–%20Software%20Design%20and%20Engineering%20Narrative.docx)
 
 ## Artifact Description
 The artifact selected for this enhancement is the Travlr Getaways full-stack web application developed in CS 465. This application was built using a MEAN stack architecture, incorporating MongoDB for data storage, Express and Node.js for the backend API, and Angular for the frontend administrative interface. The system allows users to view travel packages and provides administrative functionality to create, update, and delete trip data through a structured interface.
