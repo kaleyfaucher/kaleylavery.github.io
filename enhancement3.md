@@ -5,7 +5,7 @@
 ## Artifact Files
 - Original Artifact (to be added)
 - Enhanced Artifact (to be added)
-- Narrative Document (to be added)
+- [Narrative Document](documents/Enhancement%203%20–%20Databases%20Narrative(1).docx)
 
 ## Artifact Description
 The artifact selected for this enhancement is the Travlr Getaways full-stack web application, originally developed in CS 465. This application uses a MongoDB database with Mongoose as the object data modeling (ODM) library to manage trip-related data. The application allows users to view, create, update, and delete travel packages through a RESTful API. The database layer plays a critical role in storing and retrieving structured trip data, which is then consumed by both the public-facing site and the administrative interface.
