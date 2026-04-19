@@ -3,8 +3,8 @@
 [Home](index.md) | [Artifacts Overview](artifacts.md) | [Enhancement 1](enhancement1.md) | [Enhancement 2](enhancement2.md)
 
 ## Artifact Files
-- Original Artifact (to be added)
-- Enhanced Artifact (to be added)
+- [Original Artifact](original-artifacts/travlr-original.zip)
+- [Enhanced Artifact](enhanced-artifacts/travlr-enhanced.zip)
 - [Narrative Document](documents/Enhancement%203%20–%20Databases%20Narrative(1).docx)
 
 ## Artifact Description
