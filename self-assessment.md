@@ -1,6 +1,6 @@
 # Professional Self-Assessment
 
-[Home](index.md) | [Code Review](code-review.md) | [Artifacts Overview](artifacts.md)
+[Home](index.md) | [Code Review](code-review.md) | [Artifacts Overview](artifacts.md) [Download Full Document](documents/Professional%20Self-Assessment.docx)
 
 Throughout my time in the Computer Science program at Southern New Hampshire University, I have developed both the technical skills and the problem-solving mindset necessary to approach complex challenges in a structured and effective way. The creation of this ePortfolio represents not only the culmination of my academic work, but also a reflection of my growth as a developer and future professional in the field of computer science. By revisiting and enhancing previous artifacts, I have been able to refine my technical abilities, strengthen my understanding of core concepts, and better articulate the value of my work.
 
