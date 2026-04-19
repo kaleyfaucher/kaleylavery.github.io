@@ -5,7 +5,7 @@
 ## Artifact Files
 - Original Artifact (to be added)
 - Enhanced Artifact (to be added)
-- Narrative Document (to be added)
+- [Narrative Document](documents/Enhancement%202%20-%20Algorithms%20%26%20Data%20Structures(1).docx)
 
 ## Artifact Description
 The artifact selected for this enhancement is the Pirate Intelligent Agent project completed in CS 370: Current and Emerging Trends in Computer Science. This project involves the development of an intelligent agent using reinforcement learning techniques to navigate an environment and reach a goal based on a system of rewards and penalties. The agent learns optimal behavior through repeated interactions with the environment, making decisions based on its current state and updating its strategy over time. This artifact was originally created during coursework focused on artificial intelligence concepts and demonstrates the application of algorithms and data structures to solve a dynamic problem.
